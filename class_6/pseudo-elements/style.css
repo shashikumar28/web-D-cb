@@ -1,0 +1,18 @@
+
+p::first-letter{
+    font-size: 40px;
+    background-color: rgb(15, 183, 183);
+}
+
+p::first-line{
+    background-color: brown;
+    font-size: 50;
+}
+
+p::before{
+    content: '\1f62b';/*unicode or entity code*/
+}
+
+p::after{
+    content: 'hi i am shashi';
+}

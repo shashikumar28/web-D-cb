@@ -1,0 +1,60 @@
+/* div{
+    height: 300px;
+    width: 300px;
+    background-color: blue; */
+
+/* border */
+/* border: 10px solid red; */
+
+/* padding */
+/* padding: 20px; */
+
+/* margine */
+
+/* margin: 100px;
+} */
+
+
+/* span{ */
+    /* display: block; */
+
+    /* display: inline-block; */
+    /* display: none; */
+
+    /* visibility: hidden; */
+
+    /* height: 100vh */
+    /* height: 300px;
+    width: 300px;
+    background-color: blue; */
+
+    /* border */
+    /* border: 10px solid red; */
+    /* padding */
+    /* padding: 20px; */
+    /* margine */
+    /* margin: 10px; */
+/* } */
+
+
+div{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+
+}
+
+span{
+    /* display: block; */
+    /* display: inline-block; */
+    /* display: none; */
+    visibility: hidden;
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px; 
+}
+
+
+
+

@@ -1,0 +1,52 @@
+
+/* this is element selector */
+
+
+h1{
+    color: gold;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    background-color: darkgoldenrod;
+}
+
+/* i,d selector */
+#shashi{
+    font: size 50px; 
+    color: darkblue;
+    text-decoration: line-through;
+    background-color: rgb(61, 184, 61);
+
+    /* class selector */
+
+}
+.kumar{
+    font: size 30px; 
+    color: black;
+    text-decoration: underline;
+    background-color: rgb(88, 61, 184);
+}
+
+/* atributes */
+a[href="http://google.com"]{
+    color: aqua;
+    font-size: 50px;
+    text-decoration: line-through;
+}
+
+input[type="password"]{
+    color: blueviolet;
+    font-size: large;
+}
+
+/* universal selector  */
+*{
+     border: 5px solid red ;  
+    /* border: 5px dashed red ; widht type color  */
+    /* border: 5px dotted red ; */
+
+}
+
+
