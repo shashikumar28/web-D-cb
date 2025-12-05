@@ -1,5 +1,5 @@
 const express = require ('express')
-const app = express()
+const app = express();
 const path = require ('path');
 
 let arr = ['hi' , 'hello' , 'bye']

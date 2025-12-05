@@ -1,0 +1,16 @@
+{
+  "name": "default-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.9.3",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
